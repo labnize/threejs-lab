@@ -1,6 +1,6 @@
 # Three.js渲染SketchUp开发web 3D
 
-##方法一
+## 方法一
 
 ### 1. 用SketchUp制作模型，并导出为.dae文件
 
@@ -17,6 +17,8 @@
 
 ## 方法二
 
-### 通过在线工具(https://threejs.org/editor/)，导入3D模型文件，在线配置效果，效果满意后publish，会自动生成对应的工程包，直接部署即可。
+### 通过在线工具(https://threejs.org/editor/)
 
-推荐第二种方法
+导入3D模型文件，在线配置效果，效果满意后publish，会自动生成对应的工程包，直接部署即可。
+
+推荐第二种方法。
