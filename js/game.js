@@ -35,7 +35,7 @@ function startGame(){
   var loader = new THREE.ColladaLoader();
   loader.load("./demo.dae", function( collada ){
       rouletteScene = collada.scene;
-      rouletteScene.scale.set(0.017,0.017,0.017);
+      rouletteScene.scale.set(0.03,0.03,0.03);
       rouletteScene.position.set(0,0,0);
       scene.add(rouletteScene);
     },
