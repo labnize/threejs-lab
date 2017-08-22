@@ -2,9 +2,9 @@
 
 ##方法一
 
-###1. 用SketchUp制作模型，并导出为.dae文件
+### 1. 用SketchUp制作模型，并导出为.dae文件
 
-###2.导入所需库文件
+### 2.导入所需库文件
 
 ```
 <script type="text/javascript" src="./libs/three.js"></script>
@@ -15,7 +15,8 @@
 
 ​          
 
-##方法二
+## 方法二
 
-### 通过在线工具https://threejs.org/editor/，导入3D模型文件，在线配置效果，效果满意后publish，会自动生成对应的工程包，直接部署即可。
+### 通过在线工具(https://threejs.org/editor/)，导入3D模型文件，在线配置效果，效果满意后publish，会自动生成对应的工程包，直接部署即可。
 
+推荐第二种方法
