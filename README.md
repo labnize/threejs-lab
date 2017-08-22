@@ -17,7 +17,7 @@
 
 ## 方法二
 
-### 通过在线工具(https://threejs.org/editor/)
+### 通过在线工具  https://threejs.org/editor/
 
 导入3D模型文件，在线配置效果，效果满意后publish，会自动生成对应的工程包，直接部署即可。
 
